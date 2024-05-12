@@ -1,1 +1,0 @@
-# bimetric-blood-donation-system
